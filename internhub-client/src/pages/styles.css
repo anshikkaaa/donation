@@ -1,0 +1,99 @@
+/* General container styling */
+.container {
+  padding: 2rem;
+  max-width: 700px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+}
+
+/* Input fields */
+input {
+  display: block;
+  width: 100%;
+  margin: 1rem 0;
+  padding: 0.7rem;
+  font-size: 1rem;
+}
+
+/* Button style */
+button {
+  padding: 0.7rem 1.2rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Reward Cards */
+.rewards-grid {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.reward-card {
+  padding: 1rem;
+  border: 2px solid gray;
+  border-radius: 10px;
+  width: 150px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.reward-card:hover {
+  transform: scale(1.05);
+}
+
+.unlocked {
+  background-color: #d4edda;
+  border-color: #28a745;
+}
+
+.locked {
+  background-color: #f8d7da;
+  border-color: #dc3545;
+}
+
+/* Table for leaderboard */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.6rem;
+  text-align: center;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+.leaderboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.leaderboard-table th,
+.leaderboard-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
+
+.leaderboard-table th {
+  background-color: #4CAF50;
+  color: white;
+}
