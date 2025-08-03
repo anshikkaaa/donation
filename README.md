@@ -22,17 +22,4 @@ cd ../backend
 npm install
 npm start
 
-# Here are some snapshots of the website
-
-![Leaderboard page](https://raw.githubusercontent.com/anshikkaaa/donation/main/leaderboard.png)
-
-![Best and Worst sellers](https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20164822.png)
-https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20164843.png
-https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20164858.png
-https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20162200.png
-![Leaderboard page](https://raw.githubusercontent.com/anshikkaaa/donation/refs/heads/main/leaderboard.png)
-https://raw.githubusercontent.com/anshikkaaa/donation/refs/heads/main/Screenshot%202025-08-02%20162200.png
-<img width="1917" height="1024" alt="Screenshot 2025-08-02 164843" src="https://github.com/user-attachments/assets/0ac4d159-e65c-47cb-a639-a2c1975a42ba" />
-![Best and Worst sellers](https://raw.githubusercontent.com/anshikkaaa/donation/refs/heads/main/Screenshot%202025-08-02%20162200.png) 
-
 
