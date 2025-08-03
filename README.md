@@ -24,9 +24,9 @@ npm start
 
 # Here are some snapshots of the website
 
-https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20164822.png
+![Best and Worst sellers](https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20164822.png)
 https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20164843.png
 https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20164858.png
 https://github.com/anshikkaaa/donation/blob/main/Screenshot%202025-08-02%20162200.png
-https://github.com/anshikkaaa/donation/blob/main/leaderboard.png
+![Leaderboard page](https://github.com/anshikkaaa/donation/blob/main/leaderboard.png) 
 
